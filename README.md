@@ -37,11 +37,11 @@ Current Components
 
 Python project skeleton
 
-Behavioral‑analysis notes
+Behavioral analysis notes
 
 Evaluation rubrics and system‑instruction drafts
 
-Pattern‑mapping studies
+Pattern mapping studies
 
 Documentation workflows
 
@@ -54,21 +54,21 @@ structured evaluation frameworks
 
 prompt‑based behavioral testing
 
-reasoning‑integrity assessments
+reasoning integrity assessments
 
-emotional‑tone analysis
+emotional tone analysis
 
 contradiction and drift detection
 
-influence‑pathway mapping
+influence pathway mapping
 
-Python‑based testing tools
+Python based testing tools
 The emphasis is on clarity, systematic thinking, and reproducible research.
 
 Project Goals
 
-Build a modular behavioral‑reasoning engine
+Build a modular behavioral reasoning engine
 
-Develop emotional‑response evaluation tools
+Develop emotional response evaluation tools
 
-Document cognitive‑pattern workflows
+Document cognitive workflows
