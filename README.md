@@ -1,25 +1,74 @@
-# IRobot (Work in Progress)
+IRobst — AI Behavioral & Emotional Reasoning Analysis
 
-A structured project exploring reasoning frameworks, documentation workflows, and evaluation methods. This repository is organized using GitHub Issues and a project board to track research, modeling, and implementation tasks.
+A research workspace focused on understanding how AI systems reason, express emotion, shift tone, and influence users. This project analyzes behavioral patterns, emotional cues, contradictions, and decision pathways to map how models adapt under uncertainty, ambiguity, or pressure. This repository supports my work as Research Lead at StewwardsLabs and reflects the behavioral‑reasoning research outlined in my résumé.
 
-## Current Components
-- Python project skeleton
-- Research notes
-- System instructions and rubric drafts
+Purpose
+IRobst is designed to:
 
+study how AI systems generate emotional or persuasive responses
 
-## Goals
-- Build a modular reasoning engine
-- Explore state based reasoning interactions
-- Document evaluation and modeling approaches
+detect reasoning drift, contradictions, and manipulative patterns
 
-## Extended Description
-IRobot is an exploratory workspace focused on building structured reasoning systems and documenting the workflows behind them. The project emphasizes clarity, modular design, and repeatable processes mirroring real world enablement and automation practices. 
+analyze influence pathways and framing dynamics
 
-This repository serves as a sandbox for:
-- designing lightweight evaluation methods
-- organizing research and documentation
-- experimenting with workflow structures
+evaluate model intent, logic, and reliability
+
+document structured evaluation workflows and reasoning frameworks The goal is to build a clear, repeatable methodology for understanding model behavior at a cognitive and emotional level.
+Research Areas
 
 
-The goal is to create a clean, maintainable foundation that demonstrates systematic thinking, organization, and the ability to structure complex work into manageable components.
+Behavioral AI Analysis
+
+Emotional Reasoning
+
+Deception & Manipulation Patterns
+
+Probabilistic Decision Behavior
+
+Reflective Machine Behavior
+
+Influence & Framing Dynamics
+
+Reasoning Drift & Contradictory Behavior
+
+Decision Behavior Under Uncertainty
+
+Current Components
+
+Python project skeleton
+
+Behavioral‑analysis notes
+
+Evaluation rubrics and system‑instruction drafts
+
+Pattern‑mapping studies
+
+Documentation workflows
+
+Research publications (StewwardsCo Issues)
+
+Methods & Approach
+This project uses:
+
+structured evaluation frameworks
+
+prompt‑based behavioral testing
+
+reasoning‑integrity assessments
+
+emotional‑tone analysis
+
+contradiction and drift detection
+
+influence‑pathway mapping
+
+Python‑based testing tools
+The emphasis is on clarity, systematic thinking, and reproducible research.
+
+Project Goals
+
+Build a modular behavioral‑reasoning engine
+
+Develop emotional‑response evaluation tools
+
+Document cognitive‑pattern workflows
