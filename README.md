@@ -1,4 +1,4 @@
-IRobst — AI Behavioral & Emotional Reasoning Analysis
+IRobst : AI Behavioral & Emotional Reasoning Analysis
 
 A research workspace focused on understanding how AI systems reason, express emotion, shift tone, and influence users. This project analyzes behavioral patterns, emotional cues, contradictions, and decision pathways to map how models adapt under uncertainty, ambiguity, or pressure. This repository supports my work as Research Lead at StewwardsLabs and reflects the behavioral reasoning research
 
@@ -31,7 +31,7 @@ Influence & Framing Dynamics
 
 Reasoning Drift & Contradictory Behavior
 
-Decision Behavior Under Uncertainty
+Decisions/ Behavior Under Uncertainty
 
 Current Components
 
@@ -52,7 +52,7 @@ This project uses:
 
 structured evaluation frameworks
 
-prompt‑based behavioral testing
+prompt based behavioral testing
 
 reasoning integrity assessments
 
